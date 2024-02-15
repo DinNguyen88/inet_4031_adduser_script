@@ -10,7 +10,7 @@ Features
 -Custom User Details: Supports custom names, home directories, and shell types as specified in the input file.
 
 Prerequisites
--Linux Operating System with Python 3.x installed.
+-Linux Operating System with Python 3 installed.
 -Sudo privileges for the executing user.
 
 Installation
